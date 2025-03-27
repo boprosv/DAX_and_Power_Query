@@ -47,4 +47,5 @@ Key Features:
 -Credentials stored securely in a YAML file (not hardcoded).
 
 
+![image](https://github.com/user-attachments/assets/de5393cb-fd21-4a49-b5c6-f5c6ad70da2c)
 
