@@ -54,4 +54,4 @@ Demo Scenario
 User Request:
 "Create a DAX measure for rolling 30-day sales by product category."
 
-![image]()
+![image](https://github.com/boprosv/DAX_and_Power_Query/blob/main/Screenshot%202025-03-27%20101353.png?raw=true)
