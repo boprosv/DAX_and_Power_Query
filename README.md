@@ -65,3 +65,5 @@ App Response:
 -Optionally validates the DAX against the XMLA endpoint.
 
 -Saves the code to history for future reuse.
+
+![image]()
