@@ -2,9 +2,9 @@
 Dax and Power Query Assistant
 
 
-This Power BI Code Assistant Pro is a sophisticated Streamlit application designed to accelerate Power BI development by providing AI-powered code generation for both DAX (Data Analysis Expressions) and Power Query (M) languages. This tool integrates with OpenAI's GPT-4 model to deliver accurate, schema-aware code suggestions while incorporating advanced features like XMLA endpoint validation, template management, and schema-aware context.
+This Power BI Code Assistant Pro is a sophisticated Streamlit application designed to accelerate Power BI development by providing AI-powered code generation for both DAX (Data Analysis Expressions) and Power Query (M) languages. This tool integrates with OpenAI's GPT-4o model to deliver accurate, schema-aware code suggestions while incorporating advanced features like XMLA endpoint validation, template management, and schema-aware context.
 
-![alt image]()
+![alt image](https://github.com/boprosv/DAX_and_Power_Query/blob/main/Screenshot%202025-03-27%20095316.png?raw=true)
 
 Key Features:
 
