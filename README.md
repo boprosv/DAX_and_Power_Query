@@ -66,4 +66,4 @@ App Response:
 
 -Saves the code to history for future reuse.
 
-![image]()
+![image](https://github.com/boprosv/DAX_and_Power_Query/blob/main/Screenshot%202025-03-27%20101513.png?raw=true)
