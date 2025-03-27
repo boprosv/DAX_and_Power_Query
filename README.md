@@ -1,5 +1,50 @@
-# DAX_and_Power_Query
+# Power BI Code Assistant Pro
 Dax and Power Query Assistant
 
 
-In this project I created this Streamlit-powered AI assistant that bridges the gap between natural language and Power BI development by instantly generating DAX (Data Analysis Expressions) and Power Query (M) code from plain English requests. Designed for data analysts, BI developers, and Excel/Power BI users, it accelerates report development while maintaining best practices.
+This Power BI Code Assistant Pro is a sophisticated Streamlit application designed to accelerate Power BI development by providing AI-powered code generation for both DAX (Data Analysis Expressions) and Power Query (M) languages. This tool integrates with OpenAI's GPT-4 model to deliver accurate, schema-aware code suggestions while incorporating advanced features like XMLA endpoint validation, template management, and schema-aware context.
+
+![alt image]()
+
+Key Features:
+
+1.AI-Powered Code Generation:
+
+-Generates DAX measures and Power Query (M) transformations from natural language prompts.
+
+-Supports schema-aware suggestions when table structures are provided.
+
+-Optimized for readability with proper formatting and comments.
+
+2.XMLA-Based DAX Validation
+
+-Validates generated DAX against a Power BI XMLA endpoint (requires Power BI Premium or Premium Per User).
+
+-Provides instant feedback on syntax and semantic correctness.
+
+3.Template Management System
+
+-Prebuilt templates for common patterns (e.g., time intelligence in DAX, date table creation in Power Query).
+
+-Users can save, browse, and delete custom templates.
+
+4.Schema Awareness
+
+-Upload CSV/Excel files to define table schemas for context-aware code generation.
+
+-Displays sample data and column structures for reference.
+
+5.Conversational Memory
+
+-Maintains context from previous interactions for more coherent follow-up requests.
+
+-Full history of generated code with reusability options.
+
+6.Enterprise-Grade Security
+
+-Supports NTLM authentication for XMLA validation.
+
+-Credentials stored securely in a YAML file (not hardcoded).
+
+
+
