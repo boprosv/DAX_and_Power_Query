@@ -51,7 +51,17 @@ Key Features:
 
 
 Demo Scenario
+
 User Request:
+
 "Create a DAX measure for rolling 30-day sales by product category."
 
 ![image](https://github.com/boprosv/DAX_and_Power_Query/blob/main/Screenshot%202025-03-27%20101353.png?raw=true)
+
+App Response:
+
+-Generates a properly formatted DAX measure using CALCULATE() and DATESINPERIOD().
+
+-Optionally validates the DAX against the XMLA endpoint.
+
+-Saves the code to history for future reuse.
