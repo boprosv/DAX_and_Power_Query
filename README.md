@@ -54,4 +54,4 @@ Demo Scenario
 User Request:
 "Create a DAX measure for rolling 30-day sales by product category."
 
-
+![image]()
